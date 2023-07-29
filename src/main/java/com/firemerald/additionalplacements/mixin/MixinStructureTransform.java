@@ -9,7 +9,7 @@ import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfoReturnable;
 
 import com.firemerald.additionalplacements.block.interfaces.IPlacementBlock;
-import com.simibubi.create.content.contraptions.StructureTransform;
+import com.simibubi.create.content.contraptions.components.structureMovement.StructureTransform;
 
 import net.minecraft.core.Direction;
 import net.minecraft.world.level.block.state.BlockState;
